@@ -83,10 +83,10 @@ author:
   name             : "David J. Broderick"
   avatar           : "profile.png"
   bio              : "Assistant Professor"
-  location         : "Central Connecticut State University"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : 
+  employer         : "Central Connecticut State University"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "broderick@ccsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "djbrod"
+  github           : #"djbrod"
   google_plus      :
   keybase          :
   instagram        :
