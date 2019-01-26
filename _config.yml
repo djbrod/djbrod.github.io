@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David J. Broderick"
+title                    : "David J. Broderick, Ph.D."
 title_separator          : "-"
-name                     : &name "David J. Broderick"
+name                     : &name "David J. Broderick, Ph.D."
 description              : &description "personal description"
 url                      : https://djbrod.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
