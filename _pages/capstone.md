@@ -3,24 +3,20 @@ title: "Capstone Material"
 permalink: /teaching/capstone
 ---
 
-Overview
-======
+## Overview
 Capstone I Syllabus  
 [Capstone II Syllabus](/files/CET498_SP18_Syllabus.pdf)  
 
-Project Phases
-======
+## Project Phases
 1. Concept Development  
 2. Preliminary Design
 3. Prototyping & Detailed Design
 4. Final Design & Validation
 
-Useful Files
-======
+## Useful Files
 [Weekly Standup Board Prototype](/files/StandupPrototype.xlsx)  
 
-Past Projects
-======
+## Past Projects
 Solar Panel with Maximum Power Point Tracking  
 8-bit Microcontroller Implementation  
 Flight Simulator Control System  
