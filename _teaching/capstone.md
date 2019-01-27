@@ -14,6 +14,10 @@ Project Phases
 3. Prototyping & Detailed Design
 4. Final Design & Validation
 
+Useful Files
+======
+[Weekly Standup Board Prototype](/files/StandupPrototype.xlsx)  
+
 Past Projects
 ======
 Solar Panel with Maximum Power Point Tracking  
