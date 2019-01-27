@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ''
+title: ""
 redirect_from: 
   - /about/
   - /about.html
