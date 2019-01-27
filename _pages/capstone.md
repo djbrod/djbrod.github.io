@@ -6,7 +6,7 @@ permalink: /teaching/capstone
 Overview
 ======
 Capstone I Syllabus  
-Capstone II Syllabus  
+[Capstone II Syllabus](/files/CET498_SP18_Syllabus.pdf)  
 
 Project Phases
 ======
