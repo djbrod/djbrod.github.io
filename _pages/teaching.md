@@ -12,4 +12,4 @@ Course Materials
 Online Homework
 ======
 [WebWork Website](https://webwork.davidbroderick.com/webwork2)  
-Using WebWork  
+[WebWork Guide](/files/WebWorkGuide.pdf)    
