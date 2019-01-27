@@ -4,12 +4,12 @@ title: "Capstone Material"
 
 Overview
 ======
-Capstone I Syllabus
-Capstone II Syllabus
+Capstone I Syllabus  
+Capstone II Syllabus  
 
 Project Phases
 ======
-1. Concept Development
+1. Concept Development  
 2. Preliminary Design
 3. Prototyping & Detailed Design
 4. Final Design & Validation
