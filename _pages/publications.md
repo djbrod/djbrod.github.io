@@ -30,15 +30,18 @@ using Parameter-Varying Optimal Control Methods," in \textit{Proceedings of The 
 1. J.M. Briscoe, D.J. Broderick, R. Howard, E.L. Corder, "Video Sensor with Range Capability", United States Patent #7,375,801 B1, May 20th, 2008.
 
 ## Presentations
-1. D. J. Broderick, J. Guerrette, D. Prucker, "Indoor Localization for Navigation in an Unfamiliar Environment", *2017 ASEE Annual Conference & Exposition*, June 2017.
-2. D. J. Broderick, F. S. Wei, J. Ciccio, M. Buffalini, "Electronic Controller Design and Fabrication for Full-Scale Helicopter Flight Simulator at CCSU", *The American Institute of Aeronautics and Astronautics (AIAA) SciTech 2017*, January 2017.
-3. D.J. Broderick, C.G. Wilson, "Roll Angle Estimation of Airborne Vehicles using the Minimal Array of Atmospheric Temperature Sensors", *IEEE Long Island Systems, Applications and Technology Conference (LISAT)*, May 2015.
-4. D.J. Broderick, J. Britt, J. Ryan, D.M. Bevly, J.Y. Hung, "Simple Calibration for Vehicle Pose Estimation Using Gaussian Processes", *Institute of Navigation (ION) 2011 International Technical Meeting (ITM)*, January 2011.
-5. D.J. Broderick, D.M. Bevly, J.Y. Hung, "Modeling Vehicle Lateral Dynamics by Gaussian Processes", *2010 Dynamic Systems and Control Conference (DSCC)*, September 2010.
-6. D.J. Broderick, D.M. Bevly, J.Y. Hung, "An Adaptive Non-linear State Estimator for Vehicle Lateral Dynamics", *35th Annual Conference of IEEE Industrial Electronics*, November 2009. 
-7. D.J. Broderick, D.M. Bevly, "Comparison of Architectures for Neural-based Modeling of Lateral Vehicle Dynamics", *IFAC Conference on Cost Effective Automation in Networked Product Development and Manufacturing*, October 2007. 
-8. D.J. Broderick, J.Y. Hung, "Feedback Linearization of an Electrostatic Actuator by Particle Swarm Optimization", *IEEE International Symposium on Industrial Electronics*, July 2006. 
-9. J.M Briscoe, D.J. Broderick, R. Howard, E.L. Corder, "Machine Vision Applied to Navigation of Confined Spaces", *SPIE Conference on Spaceborne Sensors*, April 2004.
+1. D. J. Broderick, "Qualitative and Quantitative Analysis of Use of Online Homework for Circuit Analysis," accepted to *Proceedings of 2019 ASEE Annual Conference \& Exposition*, Tampa, Florida, June 2019.
+2. D. J. Broderick, A. Felczak, A. Phillips, "A Multi-semester Project Linking Programming, Digital Design, and Microcomputer Courses,"  in *Proceedings of IAJC-IJME*, Orlando, Florida (2018).
+3. D. J. Broderick, F. S. Wei, J. Hopwood, "Controller Design and Validation of Dynamic Response for Full-Scale Helicopter Flight Simulator at CCSU," in *Proceedings of The American Institute of Aeronautics and Astronautics (AIAA) SciTech 2018*, Orlando, Florida, January 2018. 
+4. D. J. Broderick, J. Guerrette, D. Prucker, "Indoor Localization for Navigation in an Unfamiliar Environment", *2017 ASEE Annual Conference & Exposition*, June 2017.
+5. D. J. Broderick, F. S. Wei, J. Ciccio, M. Buffalini, "Electronic Controller Design and Fabrication for Full-Scale Helicopter Flight Simulator at CCSU", *The American Institute of Aeronautics and Astronautics (AIAA) SciTech 2017*, January 2017.
+6. D.J. Broderick, C.G. Wilson, "Roll Angle Estimation of Airborne Vehicles using the Minimal Array of Atmospheric Temperature Sensors", *IEEE Long Island Systems, Applications and Technology Conference (LISAT)*, May 2015.
+7. D.J. Broderick, J. Britt, J. Ryan, D.M. Bevly, J.Y. Hung, "Simple Calibration for Vehicle Pose Estimation Using Gaussian Processes", *Institute of Navigation (ION) 2011 International Technical Meeting (ITM)*, January 2011.
+8. D.J. Broderick, D.M. Bevly, J.Y. Hung, "Modeling Vehicle Lateral Dynamics by Gaussian Processes", *2010 Dynamic Systems and Control Conference (DSCC)*, September 2010.
+9. D.J. Broderick, D.M. Bevly, J.Y. Hung, "An Adaptive Non-linear State Estimator for Vehicle Lateral Dynamics", *35th Annual Conference of IEEE Industrial Electronics*, November 2009. 
+10. D.J. Broderick, D.M. Bevly, "Comparison of Architectures for Neural-based Modeling of Lateral Vehicle Dynamics", *IFAC Conference on Cost Effective Automation in Networked Product Development and Manufacturing*, October 2007. 
+11. D.J. Broderick, J.Y. Hung, "Feedback Linearization of an Electrostatic Actuator by Particle Swarm Optimization", *IEEE International Symposium on Industrial Electronics*, July 2006. 
+12. J.M Briscoe, D.J. Broderick, R. Howard, E.L. Corder, "Machine Vision Applied to Navigation of Confined Spaces", *SPIE Conference on Spaceborne Sensors*, April 2004.
 
 
 ## Other Publications
