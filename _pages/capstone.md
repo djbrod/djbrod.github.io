@@ -1,6 +1,6 @@
 ---
 title: "Capstone Material"
-permalink: /teaching/CET236
+permalink: /teaching/capstone
 ---
 
 Overview
