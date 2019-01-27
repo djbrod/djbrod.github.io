@@ -8,17 +8,17 @@ redirect_from:
 
 Teaching Interests
 ======
-+Fundamental Electrical and Computer Engineering Courses  
-+Embedded Systems and Control  
-+Machine Learning  
-+Communication Protocols  
+*Fundamental Electrical and Computer Engineering Courses  
+*Embedded Systems and Control  
+*Machine Learning  
+*Communication Protocols  
 
 Research Interests
 ======
-+Robotics  
-+Nonlinear Systems and Control  
-+Machine Learning/Computational Intelligence  
-+Embedded Systems  
-+Unmanned Ground Vehicles  
-+Unmanned Aerial Vehicles  
+*Robotics  
+*Nonlinear Systems and Control  
+*Machine Learning/Computational Intelligence  
+*Embedded Systems  
+*Unmanned Ground Vehicles  
+*Unmanned Aerial Vehicles  
 
