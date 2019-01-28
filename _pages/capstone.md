@@ -10,7 +10,7 @@ Capstone I Syllabus
 ## Project Phases
 1. Concept Development  
 2. Preliminary Design
-3. Prototyping & Detailed Design
+3. [Prototyping & Detailed Design](/teaching/capstone3)  
 4. Final Design & Validation
 
 ## Useful Files
