@@ -1,4 +1,9 @@
-﻿![](https://i0.wp.com/blog.adeel.io/wp-content/uploads/2016/11/java.png?fit=357%2C225)
+---
+title: "Java Programming"
+permalink: /teaching/JAVA
+---
+
+![](https://i0.wp.com/blog.adeel.io/wp-content/uploads/2016/11/java.png?fit=357%2C225)
 # Java Course Outline
 
 ### ``Section Structure Breakdown``
