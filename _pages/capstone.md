@@ -15,6 +15,7 @@ Capstone I Syllabus
 
 ## Useful Files
 [Weekly Standup Board Prototype](/files/StandupPrototype.xlsx)  
+[Final Report Guidance](/files/FinalReportOutline.pdf)  
 
 ## Past Projects
 Solar Panel with Maximum Power Point Tracking  
