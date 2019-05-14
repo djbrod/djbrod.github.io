@@ -14,6 +14,7 @@ Capstone I Syllabus
 4. [Final Design & Validation](/teaching/capstone4)  
 
 ## Useful Files
+[Portfolio Checklist](/files/CET49xPortfolioChecklist.pdf)  
 [Weekly Standup Board Prototype](/files/StandupPrototype.xlsx)  
 [Final Report Guidance](/files/FinalReportOutline.pdf)  
 
