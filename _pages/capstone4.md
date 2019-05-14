@@ -9,6 +9,6 @@ Detailed Design Review Example Slides
 Detailed  
 
 ## Final Design Document
-Document Template  
+[Suggested Outline](/teaching/FDDOutline)
 Document Example  
 Document Rubric  
