@@ -6,7 +6,7 @@ permalink: /teaching/capstone3
 ## Program Reviews  
 [Suggested Slide Outline](/teaching/PROutline)  
 Example Slides  
-Rubric  
+[Rubric](/files/CET49xRubricProgramReview.pdf)  
 
 ## Detailed Design Review (Presentation)  
 Detailed Design Review Presentation  
