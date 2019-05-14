@@ -15,6 +15,6 @@ Your slides should follow this format:
   a. Review of planned expenditures  
   b. Present expenditures since the beginning of the project highlighting expenditures during time since last update  
 4.  Outstanding issues  
-  a. Detail issue that have/will cause schedule slip  
+  a. Detail issues that have/will cause schedule slip  
   b. Detail any resolved issues  
 
