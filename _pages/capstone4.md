@@ -5,8 +5,8 @@ permalink: /teaching/capstone4
 
 ## Final Design Presentation
 [Suggested Outline](/teaching/FDPOutline)  
-Detailed Design Review Example Slides  
-Detailed Design Presentation Rubric
+Example Slides  
+[Presentation Rubric](/files/CET49xRubricFDP.pdf)  
 
 ## Final Design Document
 [Suggested Outline](/teaching/FDDOutline)  
