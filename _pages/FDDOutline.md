@@ -1,5 +1,5 @@
 ---
-title: "Final Design & Validation"
+title: "Final Design Document Outline"
 permalink: /teaching/FDDOutline
 ---
 
