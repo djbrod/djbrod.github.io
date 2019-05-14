@@ -3,17 +3,12 @@ title: "Preliminary Design"
 permalink: /teaching/capstone2
 ---
 
-## Program Reviews  
-Slide Template  
-Example Slides  
-Rubric  
+## Preliminary Design Review (Presentation)  
+Preliminary Design Review Presentation  
+Preliminary Design Review Example Slides  
+Preliminary Design Review Presentation Rubric 
 
-## Detailed Design Review (Presentation)  
-Detailed Design Review Presentation  
-Detailed Design Review Example Slides  
-Detailed  
-
-## Detailed Design Review (Document)  
+## Preliminary Design Review (Document)  
 Document Template  
 Document Example  
 Document Rubric  
