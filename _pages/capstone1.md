@@ -1,6 +1,6 @@
 ---
 title: "Concept Development"
-permalink: /teaching/capstone3
+permalink: /teaching/capstone1
 ---
 
 ## Program Reviews  
