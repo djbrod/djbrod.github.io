@@ -4,7 +4,7 @@ permalink: /teaching/capstone3
 ---
 
 ## Program Reviews  
-Slide Template  
+[Suggested Slide Outline](/files/PROutline)  
 Example Slides  
 Rubric  
 
