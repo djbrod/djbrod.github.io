@@ -10,7 +10,7 @@ Fill in the Blank Examples
 ## Elevator Pitch
 Written Examples  
 Video Examples  
-Elevator Pitch Rubric  
+[Elevator Pitch Rubric](/files/CET49xRubricElevatorPitch.pdf)  
 
 ## Proposal
 Written Proposal Example  
