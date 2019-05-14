@@ -28,6 +28,5 @@ Using your ownsection headings, include the following content:
 8. Lessons Learned
   a. New skills/knowledge acquired
   b. Skills/knowledge used from your course work at CCSU
-9.  Appendices
-  a. Any files/code/etc. needed to recreate your project
-  b. Can be attached as zipped data if easier/more usable
+9.  Demonstration of solution
+10. Questions?
