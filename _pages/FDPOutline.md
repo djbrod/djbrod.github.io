@@ -20,13 +20,13 @@ Using your ownsection headings, include the following content:
   b. plotted data  
   c. plotted results of algorithm  
   d. etc.  
-7. Review schedule and budget
-  a. What time/money we thought it would take versus what it actually took
-  b. Non-reoccuring engineering (development) cost a.k.a NRE
+7. Review schedule and budget  
+  a. What time/money we thought it would take versus what it actually took  
+  b. Non-reoccuring engineering (development) cost a.k.a NRE  
   c. Unit production cost 
-  d. Schedule slips.  What you planned versus what actually happened
-8. Lessons Learned
-  a. New skills/knowledge acquired
-  b. Skills/knowledge used from your course work at CCSU
-9.  Demonstration of solution
-10. Questions?
+  d. Schedule slips.  What you planned versus what actually happened  
+8. Lessons Learned  
+  a. New skills/knowledge acquired  
+  b. Skills/knowledge used from your course work at CCSU  
+9.  Demonstration of solution  
+10. Questions?  
