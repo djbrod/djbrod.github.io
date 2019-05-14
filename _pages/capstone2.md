@@ -1,6 +1,6 @@
 ---
 title: "Preliminary Design"
-permalink: /teaching/capstone3
+permalink: /teaching/capstone2
 ---
 
 ## Program Reviews  
