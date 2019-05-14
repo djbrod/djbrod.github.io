@@ -15,5 +15,5 @@ Video Examples
 ## Proposal
 Written Proposal Example  
 Proposal Presentation Example Slides  
-Proposal Rubric (Written)  
+[Proposal Rubric (Written)](/files/CET49xRubricWrittenProposal.pdf)  
 Proposal Rubric (Presentation)  
