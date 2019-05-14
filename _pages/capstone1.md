@@ -3,17 +3,16 @@ title: "Concept Development"
 permalink: /teaching/capstone1
 ---
 
-## Program Reviews  
-Slide Template  
-Example Slides  
-Rubric  
+## Project Relevance  
+Fill in the Blank Examples
 
-## Detailed Design Review (Presentation)  
-Detailed Design Review Presentation  
-Detailed Design Review Example Slides  
-Detailed  
+## Elevator Pitch
+Written Examples
+Video Examples
+Elevator Pitch Rubric
 
-## Detailed Design Review (Document)  
-Document Template  
-Document Example  
-Document Rubric  
+## Proposal
+Written Proposal Example
+Proposal Presentation Example Slides
+Proposal Rubric (Written)
+Proposal Rubric (Presentation)
