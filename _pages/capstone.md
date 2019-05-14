@@ -8,10 +8,10 @@ Capstone I Syllabus
 [Capstone II Syllabus](/files/CET498_SP18_Syllabus.pdf)  
 
 ## Project Phases
-1. Concept Development  
-2. Preliminary Design
+1. [Concept Development](/teaching/capstone1)    
+2. [Preliminary Design](/teaching/capstone2)  
 3. [Prototyping & Detailed Design](/teaching/capstone3)  
-4. Final Design & Validation
+4. [Final Design & Validation](/teaching/capstone4)  
 
 ## Useful Files
 [Weekly Standup Board Prototype](/files/StandupPrototype.xlsx)  
