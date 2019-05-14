@@ -11,4 +11,4 @@ Detailed Design Presentation Rubric
 ## Final Design Document
 [Suggested Outline](/teaching/FDDOutline)  
 Document Example  
-Document Rubric  
+[Document Rubric](/files/CET49xRubricWrittenFDD.pdf)  
