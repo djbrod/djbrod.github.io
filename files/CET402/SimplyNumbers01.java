@@ -1,23 +1,22 @@
 public class SimplyNumbers01 {
     
     public static void main(String[] args) {
-        
-        // There are a lot of numbers here, but don't get overwhelmed, we'll
-        // get to them in due time, just compile and run to see how they work!
+        // Here's to illustrating the max value for the 'byte' data type
+        // *Remember that all Java primitives (besides Booleans and Chars)
+        // are signed*
 
         byte _127Max = 127;
-        short num1 = -340;
-        int num2 = 777;
-        long reallyLongNum = 1E8;
-        float pie = 3.14159265358979;
-        double pieSquared = pie * pie;
 
         System.out.println(_127Max);
-        System.out.println(num1);
-        System.out.println(num2);
-        System.out.println(reallyLongNum);
-        System.out.println(pie);
-        System.out.println(pieSquared);
+
+        // Now add 1 to _127Max variable below this comment,
+        // then print it out to see the changes. 
+        // *Remember that the notation for adding to
+        // a variable can be either x = x + 1 or x += 1
+
+
+
+        // Print _127Max below this line
     }
 
 }
