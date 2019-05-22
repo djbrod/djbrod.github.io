@@ -1,0 +1,15 @@
+Setting up Git Academic Pages on Windows:
+- https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll
+
+Install Issues - Helper Urls
+- https://github.com/jekyll/jekyll/issues/5935
+- https://github.com/tzinfo/tzinfo/wiki/Resolving-TZInfo::DataSourceNotFound-Errors
+- https://github.com/oneclick/rubyinstaller2/issues/96
+
+Terminal Commands ot run:
+    1. Remove eventmachine:
+        gem uninstall eventmachine --force
+    
+    2. Install eventmachine Ruby:
+        gem install eventmachine --platform ruby
+
