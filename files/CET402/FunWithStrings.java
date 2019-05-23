@@ -7,8 +7,8 @@ public class FunWithStrings {
 		//Objects have both data and methods (things you can do to the data) 
 		
 		//Let's create a few strings, enter your name on the next lines
-		String firstName = new String("Dave");
-		String lastName = new String("Broderick");
+		String firstName = new String("");
+		String lastName = new String("");
 		
 		String greeting = "Hello";
 				
