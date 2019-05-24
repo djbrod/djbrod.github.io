@@ -11,8 +11,7 @@ public class SimplyNumbers01 {
 
         // Now add 1 to _127Max variable below this comment,
         // then print it out to see the changes. 
-        // *Remember that the notation for adding to
-        // a variable can be either x = x + 1 or x += 1
+        // *Use this notation for adding to a variable can x += 1
 
 
 

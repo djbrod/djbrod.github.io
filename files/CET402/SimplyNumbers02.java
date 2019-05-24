@@ -21,7 +21,6 @@ public class SimplyNumbers02 {
         // inside of the parenthesis below
         System.out.println( () );
 
-
     }
 
 }

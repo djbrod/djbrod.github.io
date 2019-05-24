@@ -26,6 +26,11 @@ public class TypeCasting01 {
         float smallPie = ((float) (  ));
         System.out.println(  );
 
-// TODO: 5/22/2019 What happens if you remove the '(float)' from the expression
+        // TODO: 5/22/2019 What happens if you remove the '(float)' from the expression
+
+        // Try to cast this character into an Integer
+        // just like above, use the casting syntax, but instead of 'float' use 'int'
+        char c = '0';
+        int c_to_Int = (( ) (  ));
     }
 }
