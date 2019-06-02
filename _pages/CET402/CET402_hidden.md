@@ -1,3 +1,8 @@
+---
+title: "Introduction to Programming"
+permalink: /teaching/CET402_hidden
+---
+
 ## Intermediate
 * [Understanding Loops(For/While/Do-While)](/teaching/CET402_08)  
 * [Working with Nested Loops](/teaching/CET402_09)  
