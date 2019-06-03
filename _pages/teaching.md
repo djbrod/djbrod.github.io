@@ -8,6 +8,7 @@ permalink: /teaching/
 [Electric System Analysis](/teaching/CET346)  
 [Capstone Materials](/teaching/capstone)  
 [Digital Logic Circuits](/teaching/2200)  
+[Java Programming](/teaching/CET402)  
 
 ## Online Homework
 [WebWork Website](https://webwork.davidbroderick.com/webwork2)  
