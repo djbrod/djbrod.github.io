@@ -6,7 +6,6 @@ permalink: /teaching/CET402_InfiniteLoops
 # Problem Specification
 *Infinite Loops!*
 <br/>
-<br/>
 
 __1. Problem Description__
 
