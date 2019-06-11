@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Programming"
-permalink: /teaching/CET402_08_InfiniteLoops
+permalink: /teaching/08_InfiniteLoops
 ---
 
 # Problem Specification

@@ -2,94 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fbf3bfb-066e-4ead-9d67-46e1aa71413d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/files/CET402/java_files/InfiniteLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/CET402/java_files/firstForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/CET402/java_files/firstWhileLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/CET402/markdown_files/08_InfiniteLoops.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/CET402/markdown_files/course_hw_template.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/CET402/CET402.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/CET402.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/CET402/CET402_01.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/CET402_01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/CET402/CET402_02.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/CET402_02.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/CET402/CET402_03.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/CET402_03.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/CET402/CET402_04.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/CET402_04.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/CET402/CET402_05.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/CET402_05.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/CET402/CET402_06.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/CET402_06.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/CET402/CET402_07.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/CET402_07.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/CET402/CET402_08.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/CET402_08.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/CET402/CET402_09.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/CET402_09.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/CET402/CET402_10.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/CET402_10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/01_CompileASimpleProgram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/01_CompileASimpleProgram.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/01_EditingASimpleProgram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/01_EditingASimpleProgram.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/01_FormattedOutput.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/01_FormattedOutput.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/01_InstallJDKEclipse.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/01_InstallJDKEclipse.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/02_FunWithStrings.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/02_FunWithStrings.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/02_Substrings.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/02_Substrings.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/02_printReceipt.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/02_printReceipt.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/02_stringCompare.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/02_stringCompare.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/04_CoinCounter.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/04_CoinCounter.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/04_ComputeAverageIntegers.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/04_ComputeAverageIntegers.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/04_ComputeAverageReals.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/04_ComputeAverageReals.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/04_DisplayATime.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/04_DisplayATime.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/04_UnitConverter.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/04_UnitConverter.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/04_UserInput.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/04_UserInput.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/04_UsingScanner.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/04_UsingScanner.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/05_FirstConditionals.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/05_FirstConditionals.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/05_GraduatedTax.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/05_GraduatedTax.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/05_LeapYear.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/05_LeapYear.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/05_SimpleCalculator.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/05_SimpleCalculator.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/05_SwitchStatements.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/05_SwitchStatements.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/05_VowelConsonant.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/05_VowelConsonant.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/05_WhatIsTheOutput.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/05_WhatIsTheOutput.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/06_ABetterCalculator.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/06_ABetterCalculator.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/06_ExceptionHandling.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/06_ExceptionHandling.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/06_FirstTryFirstCatch.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/06_FirstTryFirstCatch.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/07_CoinFlip.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/07_CoinFlip.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/07_DiceRoll.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/07_DiceRoll.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/07_RandomGrader.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/07_RandomGrader.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/07_RandomPhoneNumber.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/07_RandomPhoneNumber.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/07_RandomValues.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/07_RandomValues.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/08_AnEvenBetterCalculator.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/08_AnEvenBetterCalculator.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/08_AverageOfOddIntegers.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/08_AverageOfOddIntegers.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/08_ForAWhile.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/08_ForAWhile.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/08_Palindromes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/08_Palindromes.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/08_RockPaperScissors.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/08_RockPaperScissors.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/08_firstForLoops.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/08_firstForLoops.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/08_firstWhileLoops.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/08_firstWhileLoops.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/09_DigitalClock.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/09_DigitalClock.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/09_MultiplicationTable.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/09_MultiplicationTable.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/09_NestedLoops.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/09_NestedLoops.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/09_SumsAndMultiples.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/09_SumsAndMultiples.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/10_FirstMethods.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/10_FirstMethods.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/10_MinMax.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/10_MinMax.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/10_Overloading.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/10_Overloading.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/10_VariableScope.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/10_VariableScope.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/CET402_SU19_Syllabus.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/CET402_SU19_Syllabus.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/EditJAVA.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/EditJAVA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/ExceptionHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/FileExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/FileExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/FirstConditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/FirstConditionals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/FirstMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/FirstMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/FixScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/FixScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/FunWithStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/FunWithStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/HelloJAVA.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/HelloJAVA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/NestedLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/NestedLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/RandomValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/RandomValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/Receipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/Receipt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/SimplyNumbers01.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/SimplyNumbers01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/SimplyNumbers01.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/SimplyNumbers02.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/SimplyNumbers02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/SimplyNumbers02.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/pdfs/SimplyNumbers02.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/Substrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/Substrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/SwitchStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/SwitchStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/TypeCasting01.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/TypeCasting01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/UsingScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/UsingScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/VariableScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/VariableScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/firstForLoops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/firstWhileLoops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/stringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/stringCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CET402/yourMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/files/CET402/java_files/yourMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/CET402/markdown_files/08_InfiniteLoops.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/CET402/HW_Markdown/08_InfiniteLoops.md" afterDir="false" />
     </list>
     <ignored path="files/CET402/SimplyNumbers01.pdf" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,22 +18,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_pages/CET402/CET402_hidden.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor>
+                <caret selection-end-line="3" selection-end-column="3" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/CET402/HW_Markdown/08_InfiniteLoops.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="37" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_pages/CET402/CET402_08.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="502">
-                <caret line="20" column="162" selection-start-line="20" selection-start-column="162" selection-end-line="20" selection-end-column="162" />
+              <first_editor relative-caret-position="600">
+                <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
               </first_editor>
               <second_editor />
             </state>
@@ -166,6 +95,7 @@
         <option value="$PROJECT_DIR$/files/CET402/markdown_files/course_hw_template.md" />
         <option value="$PROJECT_DIR$/files/CET402/java_files/InfiniteLoops.java" />
         <option value="$PROJECT_DIR$/files/CET402/markdown_files/08_InfiniteLoops.md" />
+        <option value="$PROJECT_DIR$/_pages/CET402/HW_Markdown/08_InfiniteLoops.md" />
         <option value="$PROJECT_DIR$/_pages/CET402/CET402_08.md" />
       </list>
     </option>
@@ -218,6 +148,13 @@
               <item name="CET402" type="462c0819:PsiDirectoryNode" />
               <item name="java_files" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="djbrod.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djbrod.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+              <item name="CET402" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown_files" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -231,6 +168,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Caleb\IdeaProjects\djbrod.github.io\_pages\CET402\HW_Markdown" />
       <recent name="C:\Users\Caleb\IdeaProjects\djbrod.github.io\files\CET402\java_files" />
       <recent name="C:\Users\Caleb\IdeaProjects\djbrod.github.io\files\CET402\pdfs" />
       <recent name="C:\Users\Caleb\IdeaProjects\djbrod.github.io\files\CET402" />
@@ -283,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1558663652618</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated Source&#10;&#10;Reformatted files. Added some links to Loops section for Online-Resources. Moved appropriate file types into folders under CET402 in files folder (3 folders now: 'java_files', 'markdown_files', 'pdfs').">
+      <created>1560228683771</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560228683771</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated Source&#10;&#10;Made new Markdown file format for HW a static link in teaching">
+      <created>1560229109977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560229109977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -361,10 +313,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Using IntelliJ rather than Visual Studio for Markdown and Git.&#10;&#10;Moved SimplyNumbers02.java into CET402 folder in files directory.&#10;&#10;Removed now un-needed .vs directory." />
     <MESSAGE value="Added 1 Type casting file as well as added a resource in the CET402_02.md Online resources section" />
     <MESSAGE value="Updated Source&#10;&#10;Reformatted files, added links to HW assignments, moved project file to Basics and Printing section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Source&#10;&#10;Reformatted files, added links to HW assignments, moved project file to Basics and Printing section" />
+    <MESSAGE value="Updated Source&#10;&#10;Reformatted files. Added some links to Loops section for Online-Resources. Moved appropriate file types into folders under CET402 in files folder (3 folders now: 'java_files', 'markdown_files', 'pdfs')." />
+    <MESSAGE value="Updated Source&#10;&#10;Made new Markdown file format for HW a static link in teaching" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Source&#10;&#10;Made new Markdown file format for HW a static link in teaching" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_pages/capstone.md">
@@ -521,16 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/CET402/CET402_08.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="502">
-            <caret line="20" column="162" selection-start-line="20" selection-start-column="162" selection-end-line="20" selection-end-column="162" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/files/CET402/java_files/NestedLoops.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -545,20 +491,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/CET402/markdown_files/08_InfiniteLoops.md">
+    <entry file="file://$PROJECT_DIR$/_pages/CET402/CET402_hidden.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <first_editor>
+            <caret selection-end-line="3" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/CET402/CET402_hidden.md">
+    <entry file="file://$PROJECT_DIR$/_pages/CET402/HW_Markdown/08_InfiniteLoops.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="60">
+            <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/CET402/CET402_08.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="600">
+            <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
