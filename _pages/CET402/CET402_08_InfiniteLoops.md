@@ -1,4 +1,5 @@
 ---
+title: ""
 permalink: /teaching/CET402_08_InfiniteLoops
 ---
 
