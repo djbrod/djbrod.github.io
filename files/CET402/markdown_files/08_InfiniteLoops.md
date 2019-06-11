@@ -1,3 +1,8 @@
+---
+title: "Introduction to Programming"
+permalink: /teaching/CET402_08_InfiniteLoops
+---
+
 # Problem Specification
 *Infinite Loops!*
 <br/>
