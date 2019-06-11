@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: *{link}*
+permalink: {link}
 ---
 
 # Problem Specification
