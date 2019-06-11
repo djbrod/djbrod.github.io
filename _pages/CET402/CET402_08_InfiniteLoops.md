@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Programming"
-permalink: /teaching/08_InfiniteLoops
+permalink: /teaching/CET402_08_InfiniteLoops
 ---
 
 # Problem Specification
@@ -12,7 +12,7 @@ permalink: /teaching/08_InfiniteLoops
 
 - Modify the *InfiniteLoops.java* file from the class website.
 
----
+<br />
 
 ###__2. What to Turn In__
 
@@ -20,5 +20,3 @@ permalink: /teaching/08_InfiniteLoops
 - Questions
     1. What happened when you ran the program? (Did you need to close the program? Did it run fine or did you run into issues?)
     2. How do you think you'd achieve the same result using a ```for``` loop instead of a ```while``` loop?
-
----
