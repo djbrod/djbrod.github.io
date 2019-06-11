@@ -11,8 +11,6 @@ __1. Problem Description__
 
 - Modify the *InfiniteLoops.java* file from the class website.
 
-<br />
-
 __2. What to Turn In__
 
 - Your modified *InfiniteLoops.java* file
