@@ -2,9 +2,10 @@ public class Receipt {
 
     public static void main(String[] args) {
 
-        //This file won't compile without your help
+        // This file won't compile without your help
         // Fix the variable declarations using the most appropriate variable data types
-        // For example, if I had a variable that was equal to the letter c, its declaration would be: char c = 'c';
+        // For example, if I had a variable that was equal to the letter c, its
+        // declaration would be: char c = 'c';
 
         item1 = "Banana";
         item2 = "Vanilla Ice Cream";
@@ -27,9 +28,9 @@ public class Receipt {
         price5 = 3.38;
         price6 = 2.24;
 
-        //Calculate the total here
+        // Calculate the total here
 
-        //Print a receipt in the same format shown in the assignment handout
+        // Print a receipt in the same format shown in the assignment handout
 
     }
 }

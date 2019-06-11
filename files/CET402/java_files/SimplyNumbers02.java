@@ -1,5 +1,5 @@
 public class SimplyNumbers02 {
-    
+
     public static void main(String[] args) {
         // Here's to illustrating the differences and quirks of
         // integers and floating point numbers

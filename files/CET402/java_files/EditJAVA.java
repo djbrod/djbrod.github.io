@@ -1,5 +1,5 @@
 public class EditJAVA {
-    
+
     public static void main(String[] args) {
 
         // I'm a comment! two '//' denote a single line comment
