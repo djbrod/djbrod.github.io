@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /teaching/CET402_FileIOProject
+permalink: /teaching/CET402_FileIOBigProject
 ---
 
 # Problem Specification
