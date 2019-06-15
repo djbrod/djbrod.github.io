@@ -1,7 +1,6 @@
 import java.io.*;
 
 public class Main {
-
     static String outputFolderPath = "";
     static String filteredUsersFile = "filteredExampleJavaUsers.txt";
 
