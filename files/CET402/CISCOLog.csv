@@ -1,0 +1,83 @@
+Date, Time,Facility,Severity,Description
+6/25/2018, 07:54:35,Kernel,4,"kernel: wrong ip[0],not_list[0]"
+6/25/2018, 07:59:59,Kernel,5,"kernel: add new: cnt[6] learn mac[18-b4-30-ac-e4-a0], ip[16.0.4.111], idx[a0]"
+6/25/2018, 08:02:00,Kernel,5,"kernel: add new: cnt[7] learn mac[18-b4-30-a2-e4-f0], ip[16.0.4.113], idx[f0]"
+6/25/2018, 08:04:51,User Log,6,User admin Session Expired
+6/25/2018, 13:02:43,Network Log,1,NSD FAIL WAN[1]
+6/28/2018, 04:04:37,Network Log,1,NSD SUCCESS WAN[1]
+6/28/2018, 18:42:34,ALLOW,5,UDP 216.218.206.70:54044 -> 71.192.17.205:500 on eth1
+6/29/2018, 17:32:35,ALLOW,5,UDP 216.218.206.114:38309 -> 71.192.17.205:500 on eth1
+6/29/2018, 22:05:29,Network Log,1,NSD FAIL WAN[1]
+6/30/2018, 00:38:06,Network Log,1,NSD SUCCESS WAN[1]
+6/30/2018, 09:55:56,Network Log,1,NSD FAIL WAN[1]
+6/30/2018, 09:56:51,Network Log,1,NSD SUCCESS WAN[1]
+6/30/2018, 10:38:46,Network Log,1,NSD FAIL WAN[1]
+6/30/2018, 14:50:06,Network Log,1,NSD SUCCESS WAN[1]
+6/30/2018, 19:38:05,ALLOW,5,UDP 216.218.206.126:1938 -> 71.192.17.205:500 on eth1
+7/1/2018, 10:25:56,Network Log,1,NSD FAIL WAN[1]
+7/1/2018, 15:15:52,Network Log,1,NSD SUCCESS WAN[1]
+7/1/2018, 17:18:35,ALLOW,5,UDP 216.218.206.126:43642 -> 71.192.17.205:500 on eth1
+7/2/2018, 10:27:12,Network Log,1,NSD FAIL WAN[1]
+7/2/2018, 15:04:03,Network Log,1,NSD SUCCESS WAN[1]
+7/2/2018, 18:52:14,ALLOW,5,UDP 216.218.206.110:56451 -> 71.192.17.205:500 on eth1
+7/3/2018, 00:53:33,ALLOW,5,UDP 194.0.202.2:34038 -> 71.192.17.205:500 on eth1
+7/3/2018, 00:53:40,ALLOW,5,UDP 194.0.202.2:34038 -> 71.192.17.205:500 on eth1
+7/3/2018, 09:58:27,Network Log,1,NSD FAIL WAN[1]
+7/3/2018, 15:25:44,Network Log,1,NSD SUCCESS WAN[1]
+7/3/2018, 17:14:29,ALLOW,5,UDP 216.218.206.74:40048 -> 71.192.17.205:500 on eth1
+7/4/2018, 10:03:12,Network Log,1,NSD FAIL WAN[1]
+7/4/2018, 16:04:02,Network Log,1,NSD SUCCESS WAN[1]
+7/4/2018, 17:14:29,ALLOW,5,UDP 216.218.206.114:8402 -> 71.192.17.205:500 on eth1
+7/5/2018, 10:49:33,Network Log,1,NSD FAIL WAN[1]
+7/5/2018, 12:36:28,Network Log,1,NSD SUCCESS WAN[1]
+7/5/2018, 16:58:54,ALLOW,5,UDP 71.6.146.185:500 -> 71.192.17.205:500 on eth1
+7/5/2018, 17:59:50,ALLOW,5,UDP 216.218.206.74:59060 -> 71.192.17.205:500 on eth1
+7/6/2018, 18:26:16,ALLOW,5,UDP 216.218.206.74:44064 -> 71.192.17.205:500 on eth1
+7/7/2018, 18:23:34,ALLOW,5,UDP 216.218.206.66:25395 -> 71.192.17.205:500 on eth1
+7/8/2018, 18:02:02,ALLOW,5,UDP 216.218.206.122:10110 -> 71.192.17.205:500 on eth1
+7/9/2018, 03:46:21,ALLOW,5,UDP 71.6.158.166:500 -> 71.192.17.205:500 on eth1
+7/9/2018, 17:49:05,ALLOW,5,UDP 216.218.206.122:62709 -> 71.192.17.205:500 on eth1
+7/9/2018, 22:06:27,Kernel,1,kernel: WAN [1] DOWN
+7/9/2018, 22:06:27,Network Log,1,WAN connection is down
+7/9/2018, 22:07:08,Kernel,1,kernel: WAN [1] UP
+7/9/2018, 22:07:08,Kernel,5,"kernel: [eth0] lanip=16.0.4.1, mask=255.255.255.0"
+7/9/2018, 22:07:08,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:07:08,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:07:28,Kernel,1,kernel: WAN [1] DOWN
+7/9/2018, 22:08:26,Kernel,1,kernel: WAN [1] UP
+7/9/2018, 22:08:26,Kernel,5,"kernel: [eth0] lanip=16.0.4.1, mask=255.255.255.0"
+7/9/2018, 22:08:26,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:08:26,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:08:34,Kernel,1,kernel: WAN [1] DOWN
+7/9/2018, 22:08:39,Kernel,1,kernel: WAN [1] UP
+7/9/2018, 22:08:39,Kernel,5,"kernel: [eth0] lanip=16.0.4.1, mask=255.255.255.0"
+7/9/2018, 22:08:39,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:08:39,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:09:10,Network Log,1,WAN connection is up : 71.192.17.205/255.255.254.0 gw 71.192.16.1 on eth1
+7/9/2018, 22:09:10,Kernel,5,"kernel: [eth0] lanip=16.0.4.1, mask=255.255.255.0"
+7/9/2018, 22:09:10,Kernel,5,kernel: ip[71.192.17.205] mask[0.0.0.0]
+7/9/2018, 22:09:10,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:09:10,Kernel,4,"kernel: wrong ip[0],not_list[0]"
+7/9/2018, 22:10:21,Kernel,1,kernel: WAN [1] DOWN
+7/9/2018, 22:10:21,Network Log,1,WAN connection is down
+7/9/2018, 22:10:26,Kernel,5,"kernel: [eth0] lanip=16.0.4.1, mask=255.255.255.0"
+7/9/2018, 22:10:26,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:10:26,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:10:29,Network Log,1,WAN connection is up : 71.192.17.205/255.255.254.0 gw 71.192.16.1 on eth1
+7/9/2018, 22:10:29,Kernel,5,"kernel: [eth0] lanip=16.0.4.1, mask=255.255.255.0"
+7/9/2018, 22:10:29,Kernel,5,kernel: ip[71.192.17.205] mask[0.0.0.0]
+7/9/2018, 22:10:29,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:10:29,Kernel,4,"kernel: wrong ip[0],not_list[0]"
+7/9/2018, 22:10:57,Kernel,1,kernel: WAN [1] DOWN
+7/9/2018, 22:10:57,Network Log,1,WAN connection is down
+7/9/2018, 22:11:02,Kernel,1,kernel: WAN [1] UP
+7/9/2018, 22:11:02,Kernel,5,"kernel: [eth0] lanip=16.0.4.1, mask=255.255.255.0"
+7/9/2018, 22:11:02,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:11:02,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:11:04,Network Log,1,WAN connection is up : 71.192.17.205/255.255.254.0 gw 71.192.16.1 on eth1
+7/9/2018, 22:11:04,Kernel,5,"kernel: [eth0] lanip=16.0.4.1, mask=255.255.255.0"
+7/9/2018, 22:11:04,Kernel,5,kernel: ip[71.192.17.205] mask[0.0.0.0]
+7/9/2018, 22:11:04,Kernel,5,kernel: ip[0.0.0.0] mask[0.0.0.0]
+7/9/2018, 22:11:04,Kernel,4,"kernel: wrong ip[0],not_list[0]"
+7/10/2018, 06:52:44,User Log,6,User admin login success from 32.216.173.251
+7/10/2018, 06:52:44,User Log,6,User admin login success from 32.216.173.251
