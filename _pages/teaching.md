@@ -5,6 +5,7 @@ permalink: /teaching/
 
 ## Course Materials
 [Linear Circuit Analysis Review](/teaching/CET236)  
+[Electronic Design Automation](/teaching/CET246)  
 [Electric System Analysis](/teaching/CET346)  
 [Capstone Materials](/teaching/capstone)  
 [Digital Logic Circuits](/teaching/2200)  
