@@ -3,9 +3,8 @@ title: "Concept Development"
 permalink: /teaching/capstone1
 ---
 
-## Project Relevance  
-[Fill in the Blank Examples](/files/CET49x/CET497_Revelance.pdf)  
-[Fill in the Blank Rubric](/files/CET49xRubricRelevance.pdf)  
+Fill in the Blank [Examples](/files/CET49x/CET497_Revelance.pdf) [Rubric](/files/CET49xRubricRelevance.pdf)  
+
 
 ## Elevator Pitch
 Written Examples  
