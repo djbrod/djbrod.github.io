@@ -4,7 +4,7 @@ permalink: /teaching/capstone
 ---
 
 ## Overview
-Capstone I Syllabus  
+[Capstone I Syllabus](/files/CET49x/CET497_FA19_Syllabus.pdf)  
 [Capstone II Syllabus](/files/CET498_SP18_Syllabus.pdf)  
 
 ## Project Phases
