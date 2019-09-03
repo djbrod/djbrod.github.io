@@ -14,4 +14,4 @@ Project Concept Review [Checklist](/files/CET49x/PCRForm.pdf)
 | :-------------------- | :----------------------- | :----- |
 | Project Expectations  | [Handout](/files/CET49x/CET497_Expectations.pdf) |                                            |
 | Fill in the Blank     | [Examples](/files/CET49x/CET497_Revelance.pdf)   | [Rubric](/files/CET49xRubricRelevance.pdf) |
-| Elevator Pitch        | Written Examples                                 | [Rubric](/files/CET49xRubricElevatorPitch.pdf) |
+| Elevator Pitch        | Slides <br> Written Examples <br> Video Examples | [Rubric](/files/CET49xRubricElevatorPitch.pdf) |
