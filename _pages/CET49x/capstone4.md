@@ -3,15 +3,6 @@ title: "Final Design & Validation"
 permalink: /teaching/capstone4
 ---
 
-## Final Design Presentation
-
-Example Slides  
-
-
-## Final Design Document
-
-[Document Rubric](/files/CET49xRubricWrittenFDD.pdf)  
-
 | Description                     | Materials                | Rubric                                           |
 | :--------------------           | :----------------------- | :-----                                           |
 | Final Design Presentation       | [Suggested Outline](/teaching/FDPOutline)  <br> Example                     |  [Rubric](/files/CET49x/CET49xRubricFDP.pdf) |
