@@ -14,3 +14,8 @@ permalink: /teaching/capstone/faq
   
   $\pi$
 </details>
+<details>
+  <summary>How long should our presentation be?</summary>
+  
+  20 minutes total.  You should plan to present for 15 minutes followed by 5 minutes of follow-up questions.
+</details>
