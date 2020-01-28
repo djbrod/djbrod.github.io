@@ -9,6 +9,7 @@ permalink: /teaching/
 [Electric System Analysis](/teaching/CET346)  
 [Capstone Materials](/teaching/capstone)  
 [Digital Logic Circuits](/teaching/2200)  
+[Control of Dynamic Systems](/teaching/ME403)  
 
 ## Online Homework
 [WebWork Website](https://webwork.davidbroderick.com/webwork2)  
