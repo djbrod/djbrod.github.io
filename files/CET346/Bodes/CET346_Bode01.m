@@ -16,8 +16,6 @@ w=2*pi*f;
 z=roots([L/R 0])/(2*pi)
 p=roots([L/R 1])/(2*pi)
 
-
-return
 %generate Bode plot
 f=logspace(0,6,1000);
 w=2*pi*f;
